@@ -1,0 +1,12 @@
+2022-04-09 13:17:50 INFO  HelloExample:24 - This is info : mkyong
+2022-04-09 13:17:50 WARN  HelloExample:27 - This is warn : mkyong
+2022-04-09 13:17:50 ERROR HelloExample:28 - This is error : mkyong
+2022-04-09 13:17:50 FATAL HelloExample:29 - This is fatal : mkyong
+2022-04-09 13:24:57 INFO  HelloExample:24 - This is info : sg testing
+2022-04-09 13:24:57 WARN  HelloExample:27 - This is warn : sg testing
+2022-04-09 13:24:57 ERROR HelloExample:28 - This is error : sg testing
+2022-04-09 13:24:57 FATAL HelloExample:29 - This is fatal : sg testing
+2022-04-09 13:46:41 INFO  HelloExample:24 - This is info : sg testing
+2022-04-09 13:46:41 WARN  HelloExample:27 - This is warn : sg testing
+2022-04-09 13:46:41 ERROR HelloExample:28 - This is error : sg testing
+2022-04-09 13:46:41 FATAL HelloExample:29 - This is fatal : sg testing
