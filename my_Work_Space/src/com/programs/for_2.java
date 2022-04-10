@@ -1,5 +1,7 @@
 package com.programs;
 
+import io.opentelemetry.exporter.logging.SystemOutLogExporter;
+
 public class for_2 {
 
 	public static void main(String[] args) {
@@ -9,6 +11,9 @@ public class for_2 {
 		{
 
 			System.out.println(sum);
+		}
+		{
+			System.out.println("kashinath");
 		}
 	}
 
